@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://dentaldesk.mk"><img src="https://dentaldesk.mk/storage/branding/logo.png" alt="Official DentalDesk logo" width="480" /></a>
