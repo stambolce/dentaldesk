@@ -1,32 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://dentaldesk.mk"><img src="https://dentaldesk.mk/storage/branding/logo.png" alt="Official DentalDesk logo" width="480" /></a>
+# DentalDesk
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://dentaldesk.mk"><img src="assets/dentaldesk-hero.svg" alt="DentalDesk product showcase by PROCESS IN" width="100%" /></a>
+<img src="https://dentaldesk.mk/storage/branding/logo.png" alt="DentalDesk — ürün görsel sunumu" width="480" />
 
-<br/>
+<img src="assets/dentaldesk-hero.svg" alt="DentalDesk — ürün görsel sunumu" width="100%" />
+
+**Tüm diş kliniği tek bağlantılı platformda.**
 
 [![Official website](https://img.shields.io/badge/DENTALDESK_MK-OFFICIAL_WEBSITE-008F83?style=for-the-badge)](https://dentaldesk.mk)
 [![Request demo](https://img.shields.io/badge/BOOK-REQUEST_DEMO-008F83?style=for-the-badge)](https://dentaldesk.mk/demo)
 [![Created by](https://img.shields.io/badge/PROCESS_IN-CREATED_BY-15233B?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Tüm diş kliniği tek bağlantılı platformda.
-
-**Tüm diş kliniği tek bağlantılı platformda.**
+**LIVE**
 
 </div>
-
----
 
 ## Kliniğin gerçek işi etrafında yazılım
 
@@ -90,7 +80,7 @@ Diş kliniği yönetimi, elektronik kayıt, odontogram, randevu, hasta portalı,
 |---|---|
 | Ürün | DentalDesk |
 | Resmî site | [dentaldesk.mk](https://dentaldesk.mk) |
-| Kategori | Diş kliniği yönetim SaaS |
+| Kategori | Diş kliniği ve hasta yönetimi |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
